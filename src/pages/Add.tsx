@@ -46,7 +46,7 @@ function AddPage() {
                 message: "Tên khóa học phải lớn hơn 3 ký tự",
               },
             })}
-            className="w-full border rounded-lg px-3 py-2"
+            className="w-full border roundey7yyd-lg px-3 py-2"
           />
           {errors.name && (
             <p className="text-red-500 text-sm">{errors.name.message}</p>

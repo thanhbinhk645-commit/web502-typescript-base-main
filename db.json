@@ -1,13 +1,6 @@
 {
   "courses": [
     {
-      "id": 1,
-      "name": "ReactJS Cơ Bản",
-      "credit": 3,
-      "category": "Chuyên ngành",
-      "teacher": "Nguyễn Văn A"
-    },
-    {
       "id": 2,
       "name": "TypeScript",
       "credit": 2,
@@ -29,39 +22,18 @@
       "teacher": "Phạm Văn D"
     },
     {
-      "name": "nguyễn thanh bình",
-      "id": 5
-    },
-    {
-      "name": "nguyễn thanh bình",
-      "id": 6
-    },
-    {
-      "name": "nguyễn thanh bình",
-      "id": 7
-    },
-    {
-      "name": "nguyễn thanh bình",
-      "id": 8
-    },
-    {
-      "name": "nguyễn thanh bình",
-      "id": 9
-    },
-    {
-      "name": "nguyễn thanh bình",
-      "id": 10
-    },
-    {
-      "name": "nguyễn thanh bình",
-      "id": 11
-    },
-    {
       "name": "ntb goon",
       "credit": 15,
       "category": "Đại cương",
       "teacher": "HaHA",
       "id": 12
+    },
+    {
+      "name": "Node js",
+      "credit": 15,
+      "category": "Cơ sở",
+      "teacher": "HaHA",
+      "id": 13
     }
   ]
 }
